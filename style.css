@@ -1,0 +1,19 @@
+body{
+  background-color:#ccff33
+  border-style: solid;
+}
+.myMenu{
+  background-color: lightblue;
+  padding:50px;
+}
+.form-group{
+  background-color: red;
+  padding:10px;
+}
+.form-control
+{
+    background-color: #cc6699;
+  padding:10px;
+
+
+}
