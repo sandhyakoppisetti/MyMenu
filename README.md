@@ -1,0 +1,2 @@
+# MyMenu
+Simple Javascript application
